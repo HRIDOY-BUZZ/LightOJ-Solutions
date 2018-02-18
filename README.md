@@ -1,2 +1,2 @@
 # LightOJ-Solutions
-This is the solution of my solves in LightOJ.
+This is the solutions of my solves in LightOJ.
